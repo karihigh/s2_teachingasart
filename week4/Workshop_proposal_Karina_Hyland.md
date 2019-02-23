@@ -3,7 +3,8 @@
 ## ‘REST’ YOUR MIND
 ### Workshop Proposal
 
-##### Duration 60 minutes
+##### Duration
+60 minutes
 
 ##### Target audience
 Any adult or elder between who has a slight sensibility and curiosity in mindfulness or is concerned about not being able to quiet down their mind.
@@ -17,8 +18,8 @@ The attendants will create awareness of how their minds cycle through the attent
 
 #### Syllabus
 
-**10 min.**
-Task oriented guided meditation. Body scan, breathing and silent time.
+* 10 min.
+  - Task oriented guided meditation. Body scan, breathing and silent time.
 
 **5 min.**
 Discuss how the meditation went, ask how many people were able to maintain their focus on the directions given. Acknowledge that is difficult to stay focused the whole time. Develop awareness that what we might think is rest, is actually a very energy-consuming activity.
