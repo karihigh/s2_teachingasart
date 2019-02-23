@@ -3,9 +3,6 @@
 ## ‘REST’ YOUR MIND
 ### Workshop Proposal
 
-#### Duration
-60 minutes
-
 #### Target audience
 Any adult or elder between who has a slight sensibility and curiosity in mindfulness or is concerned about not being able to quiet down their mind.
 
@@ -17,10 +14,11 @@ The attendants will create awareness of how their minds cycle through the attent
 
 #### Syllabus
 
-Recent studies in cognitive neuroscience have discovered a complex neural network that activates when not performing a task. Every time the mind wanders and an inner conversation takes place, a series of brain regions work together to achieve some very important mental processes. These regions conform the *default mode network (DMN)*, and its study has become critical for understanding how consciousness operates.  This network can be described as mind-wandering, i.e. using past experiences to plan for the future, navigate social interactions, and maximize the utility of moments when we are not otherwise engaged by the external world[/n*]. Now we know that in order to understand how the brain works depends critically on the study of its intrinsic activity and how it gets us closer to the understanding of consciousness [19].
+Recent studies in cognitive neuroscience have discovered a complex neural network that activates when not performing a task. Every time the mind wanders and an inner conversation takes place, a series of brain regions work together to achieve some very important mental processes. These regions conform the *default mode network (DMN)*, and its study has become critical for understanding how consciousness operates.  This network can be described as mind-wandering, i.e. using past experiences to plan for the future, navigate social interactions, and maximize the utility of moments when we are not otherwise engaged by the external world[.]. Now we know that in order to understand how the brain works depends critically on the study of its intrinsic activity and how it gets us closer to the understanding of consciousness [.].
 In this workshop I will present the main principles of this neural network and how it can help us on our daily lives. Everyone has experienced some kind of mind wandering, but not all of them are aware that it corresponds to a specific neural network.
 
 #### Timeline
+Proposed activities and duration of each.
 
 ##### 10 min.
 Task oriented guided meditation. Body scan, breathing and silent time.
@@ -48,6 +46,10 @@ Reflect on the [videos](https://vimeo.com/229760065) and their impact on the par
 
 ##### 15 min.
 Fill out the blank cycle diagram with the steps that feel relevant and useful for each person in order to train their minds to maintain focus on whatever feels more comfortable. Keep the diagram and set a goal to perform the designed personal ritual.
+
+#### Total duration
+60 minutes
+
 
 #### Materials list and budget
 * Screen or projector
