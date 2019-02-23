@@ -1,11 +1,12 @@
 # ASSIGNMENT 3 | Karina Hyland
 
 ## ‘REST’ YOUR MIND
-### Workshop Proposal
 
 <p align="center">
   <img src="http://xdefault.cl/wp-content/uploads/2017/10/screenshot2.png" align="middle" width="100%">
 </p>
+
+### Workshop Proposal
 
 #### Target audience
 Any adult or elder who has a slight sensibility and curiosity in *mindfulness* or is concerned about not being able to quiet down their mind.
