@@ -36,7 +36,7 @@ Discuss how the meditation went, ask how many people were able to maintain their
 Write/sketch down how you picture your brain during this meditation. Images, people, words, colors or anything that passed through the mind. Could be a simple list or an abstract drawing. Keep them to themselves, no need to share.
 
 <p align="center">
-  <img src="https://github.com/karihigh/s2_teachingasart/blob/master/week4/Screen%20Shot%202019-02-23%20at%202.49.37%20PM.png?raw=true" align="middle" width="90%">
+  <img src="https://github.com/karihigh/s2_teachingasart/blob/master/week4/diagramdmn4.png?raw=true" align="middle" width="90%">
 </p>
 
 ##### 25 minutes.
