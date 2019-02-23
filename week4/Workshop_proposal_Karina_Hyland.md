@@ -4,7 +4,7 @@
 ### Workshop Proposal
 
 <p align="center">
-  <img src="http://xdefault.cl/wp-content/uploads/2017/10/screenshot2.png" align="middle" width="90%">
+  <img src="http://xdefault.cl/wp-content/uploads/2017/10/screenshot2.png" align="middle" width="100%">
 </p>
 
 #### Target audience
@@ -32,7 +32,11 @@ Task oriented guided meditation. Body scan, breathing and silent time.
 Discuss how the meditation went, ask how many people were able to maintain their focus on the directions given. Acknowledge that is difficult to stay focused the whole time. Develop awareness that what we might think is rest, is actually a very energy-consuming activity.
 
 ##### 5 min.
-Write/sketch down the things, images, people, words, colors or anything that passed through the mind. Could be a simple list or an abstract drawing. Keep them to themselves, no need to share.
+Write/sketch down how you picture your brain during this meditation. Images, people, words, colors or anything that passed through the mind. Could be a simple list or an abstract drawing. Keep them to themselves, no need to share.
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjVkuPmz9LgAhXCg-AKHRjLCYkQjRx6BAgBEAU&url=http%3A%2F%2Fsrishti.ac.in%2Fevents%2Fcreating-mind-wandering-computer&psig=AOvVaw1z0BIdBOGIExhwo_OhA7d6&ust=1551037655536856" align="middle" width="90%">
+</p>
 
 ##### 25 minutes.
 Introduce the scientific concepts and biological processes that the brain goes through during a regular day or during a meditation exercise.
