@@ -20,7 +20,7 @@ In this workshop I will present the main principles of this neural network and h
 #### Timeline
 Proposed activities and duration of each.
 
-##### 10 min.
+##### 10 min.
 Task oriented guided meditation. Body scan, breathing and silent time.
 
 ##### 5 min.
